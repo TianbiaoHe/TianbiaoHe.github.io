@@ -85,9 +85,9 @@ author:
   bio              : "I am an Associate Professor in the Department of Gas Engineering at China University of Petroleum (East China)"
   location         : "Qingdao, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OAZzVRgAAAAJ&hl=en"
-  email            :
+  email            : "hetianbiao@upc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -242,8 +242,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
