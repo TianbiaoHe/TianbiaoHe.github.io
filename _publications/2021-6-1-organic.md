@@ -2,7 +2,7 @@
 title: "Organic Rankine cycle integrated with hydrate-based desalination for a sustainable energy–water nexus system"
 collection: publications
 permalink: /publication/2021-6-1-organic
-excerpt: 'Clathrate hydrate-based desalination (HyDesal) is a promising desalination technology but it is energy intensive. Developing strategies to reduce the high energy consumption of HyDesal process is necessary for its industrial application. The need for refrigeration requirement for the operation of HyDesal can be offset by LNG cold exergy to reduce its energy consumption. However, the LNG cold exergy utilization efficiency is low due to the large temperature difference between LNG and seawater and hydrate former. In this work, we propose a sustainable process that integrates HyDesal and organic Rankine cycle by utilizing LNG cold exergy to generate fresh water and electricity simultaneously. This integrated process was optimized by adopting particle swarm optimization algorithm to achieve maximal power and fresh water generation. Further, an economic analysis was performed to compare the economic'
+excerpt: 'Clathrate hydrate-based desalination (HyDesal) is a promising desalination technology but it is energy intensive.'
 date: 2021-6-1
 venue: 'Applied Energy'
 paperurl: 'http://tianbiaohe.github.io/files/organic_2021.pdf'
