@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LNG & Hydrate Lab"
+title                    : "LNG & Hydrate Lab@UPC"
 title_separator          : "-"
 name                     : &name "Tianbiao He"
 description              : &description "personal description"
