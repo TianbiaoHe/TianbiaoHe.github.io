@@ -13,13 +13,11 @@ redirect_from:
 # Biography of Tianbiao He
 
 ## Education
-- Ph.D. - Refrigeration and Cryogenics Engineering
-
-  Shanghai Jiao Tong University, Shanghai, China
+- Ph.D. - Refrigeration and Cryogenics Engineering (2011.9-2017.4)  
+  Shanghai Jiao Tong University, Shanghai, China  
+  Thesis: Process optimization and experimental study on small-scale liquefied natural gas plant with skid-mounted packages  
+  Supervisor: Prof. Yonglin Ju  
   
-  Thesis: PROCESS OPTIMIZATION AND EXPERIMENTAL STUDY ON SMALL-SCALE LIQUEFIED NATURAL GAS PLANT WITH SKID-MOUNTED PACKAGES
-  
-  Supervisor: Prof. Yonglin Ju
 - 2007.09-2011.06: East China University of Science and Technology, Thermal and Power Engineering, Bachelor of Engineering
 
 ## Working Experience
