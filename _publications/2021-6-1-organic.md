@@ -6,7 +6,7 @@ excerpt: 'Clathrate hydrate-based desalination (HyDesal) is a promising desalina
 date: 2021-6-1
 venue: 'Applied Energy'
 paperurl: 'http://tianbiaohe.github.io/files/organic_2021.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Tianbiao He, Jibao Zhang, Ning Mao, Praveen Linga. (2009). &quot;Organic Rankine cycle integrated with hydrate-based desalination for a sustainable energy–water nexus system.&quot; <i>Applied Energy</i>. 291，116839.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
