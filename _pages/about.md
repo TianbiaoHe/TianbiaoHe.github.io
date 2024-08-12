@@ -9,6 +9,51 @@ redirect_from:
 ---
 
 
+# Opening Ph.D. Positions in my group
+
+We invite dynamic and ambitious individuals to apply for our distinguished Ph.D. Program in Power Engineering and Engineering Thermophysics (Process System Engineering direction)
+
+## Program Highlights:
+
+### Interdisciplinary Excellence: Immerse yourself in a collaborative environment where engineering, mathematics, computer science, and applied sciences converge. Our program fosters interdisciplinary research, enabling you to tackle real-world challenges with innovative solutions.
+
+### World-Class Faculty: Join a team of renowned experts and thought leaders who are at the forefront of process systems engineering research. Benefit from their mentorship and contribute to groundbreaking advancements in areas such as process optimization, control systems, modeling, and sustainable process design.
+
+### Cutting-Edge Facilities: Access state-of-the-art laboratories equipped with advanced simulation tools, high-performance computing resources, and experimental setups. Our facilities provide a platform for hands-on exploration and experimentation, allowing you to transform theoretical concepts into practical applications.
+
+### Industrial Partnerships: Collaborate with leading industry partners on applied research projects, gaining invaluable insights into real industrial challenges. Build a strong network and enhance your career prospects through internships, workshops, and industry interactions.
+
+### Global Connections: Engage with a vibrant community of fellow scholars, participate in international conferences, and engage in cross-cultural exchanges. Broaden your horizons and enrich your research perspective through global connections.
+
+
+
+## Application Requirements:
+
+### A master's degree in chemical engineering, mechanical engineering, or a related field.
+
+### Strong academic record and research background.
+
+### Statement of purpose outlining your research interests and aspirations.
+
+### Letters of recommendation from academic or professional referees.
+
+### Demonstrated aptitude for independent and collaborative research.
+
+### Proficiency in relevant programming languages and modeling tools (e.g., MATLAB, Python, Aspen Plus, Aspen HYSYS).
+
+
+
+## Salary
+
+We will help you apply for the Chinese Government Scholarship.  https://www.campuschina.org/content/details3_74776.html
+
+### Tuition fee: Free
+
+### Accommodation: Free, single room
+
+### Stipend: CNY 3,500 per month for ph.D.
+
+### Bouns: Our group also provides scholarships for ph.D. candidate up to CNY 2,000 per month.
 
 # Biography of Tianbiao He
 
