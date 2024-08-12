@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LNG & Hydrate Lab@UPC"
+title                    : "Low carbon and smart energy@ZJU"
 title_separator          : "-"
 name                     : &name "Tianbiao He"
 description              : &description "personal description"
@@ -83,11 +83,11 @@ author:
   name             : "Dr. Tianbiao He"
   avatar           : "photo.png"
   bio              : 
-  location         : "Qingdao, China"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OAZzVRgAAAAJ&hl=en"
-  email            : "hetianbiao@upc.edu.cn"
+  email            : "hetianbiao@zju.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Tianbiao-He"
   uri              :
   bitbucket        :
